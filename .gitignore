@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# Sveltekit build / generate output
+dist
